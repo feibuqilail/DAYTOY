@@ -2,8 +2,9 @@
   font-size: large;
 }
 #b {
-    float: right;
+    padding-left: 50px;
+    margin-left: 50px;
 }
 .c {
-    padding: 350px;
+    width: 550px;
 }
