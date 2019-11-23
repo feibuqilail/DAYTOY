@@ -4,6 +4,7 @@
 #b {
     padding-left: 50px;
     margin-left: 50px;
+    float: left;
 }
 .c {
     width: 550px;
